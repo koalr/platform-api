@@ -2,3 +2,4 @@
 // Change 4 for PR 6 - Implement retry logic for external calls
 // Change 1 for PR 8 - Implement user authentication improvements
 // Change 1 for PR 13 - Refactor database query layer
+// Change 5 for PR 20 - Migrate database schema
